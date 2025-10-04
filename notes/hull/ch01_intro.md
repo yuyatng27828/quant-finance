@@ -3,12 +3,12 @@
 ## 🌎 OTC vs Exchange
 - **Exchange-traded**
   - Standardized contracts
-  - Centralized clearinghouse -> low counterparty risk
+  - Centralized clearinghouse >> low counterparty risk
   - High liquidity & transparency
 
 - **OTC (Over-the-Counter)**
   - Customized contracts
-  - Direct counterparty exposure -> credit risk
+  - Direct counterparty exposure >> credit risk
   - Less transparency, more flexibility
 
 ## 🔑 Forward, Futures, and Options
@@ -27,7 +27,7 @@
 ## ⚖️  Hedging vs Speculating vs Arbitrage
 - **Hedging**
   - To reduce the risk from potential future movements in a market variable
-  - Futures = lock in prices, neuralize risk
+  - Futures = lock in prices, neutralize risk
   - Options = downside protection, keep upside (cost = premium)
 - **Speculating**
   - To bet on the future direction of a market variable
@@ -37,7 +37,7 @@
   - To lock in a riskless profit by simultaneously entering into transactions in two or more markets
 
 ## ✅ Summary
-- Derivatives' strength is its versatility
-- Hedgers use derivatives to reduce or eliminate risk
-- Speculators use derivatives to get extra leverage
-- Arbitrageurs take advantage of price discrepancies in different markets
+- 💪 Derivatives' strength is its versatility
+- 🔒 Hedgers use derivatives to reduce or eliminate risk
+- 🎲 Speculators use derivatives to get extra leverage
+- ♟️ Arbitrageurs take advantage of price discrepancies in different markets
