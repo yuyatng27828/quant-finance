@@ -7,5 +7,5 @@ Covering derivatives (Hull), quantitative methods, and coding implementations in
 To build a solid foundation in quantitative finance for future work in quantitative investment strategies.
 
 ## 📚 Contents
-- [Chapter 1: Introduction](notes/hull/01_intro.md) _(in progress)_
+- [Chapter 1: Introduction](notes/hull/ch01_intro.md) _(in progress)_
 
