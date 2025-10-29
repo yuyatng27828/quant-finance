@@ -25,7 +25,7 @@ A hedger uses futures contracts to reduce risk from price movements of an underl
 Hedging reduces uncertainty of outcomes (makes them more predictabl), but does not guarantee higher profits. Often trades off upside potential for downside protection.
 
 ## 3.3 Basis Risk
-*Basis = $\Delta (Spot price - Futures price)$*
+*Basis = Δ(Spot price - Futures price)*
 Your hedge is imperfect because the futures price and actual underlying spot price don't move in perfect sync.
 
 - **Spot** = Your real economic exposure 
