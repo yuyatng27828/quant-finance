@@ -52,9 +52,9 @@ You go long futures to protect against a price increase = long hedge
 Hedging an exposure by using a futures contract on a different asset (becasue no exact match exists).
 E.g. an airline heding jet fuel using heating oil futures.
 
-**Optimal Hedge Ratio**
-$$h^* = \frac{Cov(\Delta S, \Delta F)}{Var(\Delta F)}$$ 
-$$h^* = \rho \frac{\sigma_S}{\sigma_F}$$
+**Optimal Hedge Ratio**  
+- $$h^* = \frac{Cov(\Delta S, \Delta F)}{Var(\Delta F)}$$  
+- $$h^* = \rho \frac{\sigma_S}{\sigma_F}$$
 
 where:
 |Symbol|Meaning|
@@ -64,19 +64,19 @@ where:
 |$$\sigma_S, \sigma_F$$|Standard deviations of $$\Delta S$$ and $$\Delta F$$|
 |$$\rho$$|Correlation between $$\Delta S$$ and $$\Delta F$$|
 
-$$ \h^* $$ indicates how many futures contracts' worth of exposure should be used to optimally hedge 1 unit of spot exposure.
+$$h^*$$ indicates how many futures contracts' worth of exposure should be used to optimally hedge 1 unit of spot exposure.
 
-**Optimal Number of Futures Contracts**
-$$ N^* = h^* \times \frac{V_A}{V_F} $$
+**Optimal Number of Futures Contracts**  
+- $$N^* = h^* \times \frac{V_A}{V_F}$$
 
 where:
 |Symbol|Meaning|
 |:---|:---|
-|$$ N^* $$|Optimal number of futures contracts|
-|$$ V_A $$|Value of the asset being hedged|
-|$$ V_F $$|Value of one futures contract|
+|$$N^*$$|Optimal number of futures contracts|
+|$$V_A$$|Value of the asset being hedged|
+|$$V_F$$|Value of one futures contract|
 
-**Hedge Effectiveness**
-$$ \rho^2 $$ = % of variance reduction
-$$ 1 - \rho^2 $$ = basis risk due to imperfect correlation 
+**Hedge Effectiveness**  
+- $$\rho^2$$ = % of variance reduction  
+- $$1 - \rho^2$$ = basis risk due to imperfect correlation 
 
