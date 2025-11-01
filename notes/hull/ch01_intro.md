@@ -1,23 +1,25 @@
 # 📖 Chapter 1: Introduction
 
 ## 🌎 OTC vs Exchange
-- **Exchange-traded**
+**Exchange-traded**
   - Standardized contracts
   - Centralized clearinghouse >> low counterparty risk
   - High liquidity & transparency
 
-- **OTC (Over-the-Counter)**
+**OTC (Over-the-Counter)**
   - Customized contracts
   - Direct counterparty exposure >> credit risk
   - Less transparency, more flexibility
 
 ## 🔑 Forward, Futures, and Options
-- **Forward**
+**Forward**
   - OTC
   - An agreement to buy or sell an asset at a certain future time for a certain price
-- **Futures**
+  
+**Futures**
   - Exchange-traded forward
-- **Options**
+  
+**Options**
   - OTC & exchange-traded
   - Right (not obligation) to buy/sell at strike price
   - Premium paid upfront
@@ -25,15 +27,17 @@
   - Put option = the right to sell
 
 ## ⚖️  Hedging vs Speculating vs Arbitrage
-- **Hedging**
+**Hedging**
   - To reduce the risk from potential future movements in a market variable
   - Futures = lock in prices, neutralize risk
   - Options = downside protection, keep upside (cost = premium)
-- **Speculating**
+  
+**Speculating**
   - To bet on the future direction of a market variable
   - Futures = leveraged directional bets (unlimited gain/loss)
   - Options = leveraged bets with limited downside = premium
-- **Arbitrage**
+  
+**Arbitrage**
   - To lock in a riskless profit by simultaneously entering into transactions in two or more markets
 
 ## ✅ Summary
