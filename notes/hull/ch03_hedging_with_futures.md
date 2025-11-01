@@ -80,7 +80,7 @@ where:
 - $$\rho^2$$ = % of variance reduction  
 - $$1 - \rho^2$$ = basis risk due to imperfect correlation 
 
-## Hedging an Equity Portfolio using Stock Index Futures
+## 3.5 Hedging an Equity Portfolio using Stock Index Futures
 Institutional investors often hold equity portfolios and face systematic market risk (i.e. their portfolio moves with the market index).
 
 They may want to:
