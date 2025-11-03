@@ -2,7 +2,8 @@
 
 ## Key Categories of Rates
 **Treasury rates**
-- Rates earned on government securities (e.g. US treasury bills, notes, bonds)- Considered risk-free (no default risk)
+- Rates earned on government securities (e.g. US treasury bills, notes, bonds)
+- Considered risk-free (no default risk)
 - Used as benchmark for other rates
 
 **LIBOR / SOFR rates**
@@ -17,7 +18,7 @@
 - Lower risk due to collateralization
 
 **Risk-Free rate**
-- Theoretical rate of return on an investment with zerodefault risk and no liquidity premium
+- Theoretical rate of return on an investment with zero default risk and no liquidity premium
 - Approximated in practice by Treasury or SOFR rates
 - Used as the discount rate for many derivative pricing models (e.g. Black-Scholes)
 
@@ -31,9 +32,9 @@
 - Often used as benchmarks for corporate and structured debt
 
 ## Conceptual relationships
-- Treasury < Repo < LIBOR < Corporate Borrowing rate
+Treasury < Repo < LIBOR < Corporate Borrowing rate
 - Increasing credit & liquidity risk
 
-- SOFR $$\approx$$ Repo rate
+SOFR $$\approx$$ Repo rate
 - Secured, overnight, nearly risk-free
 - LIBOR included credit risk, hence typically higher
