@@ -1,13 +1,13 @@
 # 3.3 Basis Risk
 
 ## What is basis risk
-*Basis = Δ(Spot price - Futures price)*
+*Basis = Δ(Spot price - Futures price)* <br>
 Your hedge is imperfect because the futures price and actual underlying spot price don't move in perfect sync.
 
 - **Spot** = Your real economic exposure 
 - **Futures** = Your insurance contract to protect aginst spot price moves
 
-*If you don't have a spot exposure, you're not hedging, you're speculating.
+*If you don't have a spot exposure, you're not hedging, you're speculating.*
 
 ## Case 1: You own the asset (long spot)
 |Market move|Spot PnL|Futures PnL (short futures)|Net|
