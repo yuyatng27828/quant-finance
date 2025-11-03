@@ -2,7 +2,7 @@
 
 ## Purpose
 Used when the hedging horizon is longer than the maturity of available futures contracts. <br>
->> Maintain a hedge over time by rolling short-term futures positions forward.
+Maintain a hedge over time by rolling short-term futures positions forward.
 
 ## Concept
 - Stack = Open a "stack" of short-term futures to hedge long-term exposure.
@@ -10,11 +10,11 @@ Used when the hedging horizon is longer than the maturity of available futures c
 - Repeat until the hedge horizon ends.
 
 ## Risks
-- Basis risk = Each roll, the spot futures relationship may change >> small gains/losses.
+- Basis risk = Each roll, the spot futures relationship may change &rarr; small gains/losses.
 - Roll yield (roll cost)
-  - Contango (future price > spot) = Rolling costs money
-  - Backwardation (future price < spot) = Rolling gains money
-  - Transaction/liquidity risk = Each roll incurs bid-ask spreads, commisions, slippage
+  - Contango (future price > spot) &rarr; Rolling costs money
+  - Backwardation (future price < spot) &rarr; Rolling gains money
+- Transaction/liquidity risk = Each roll incurs bid-ask spreads, commisions, slippage
 
 ## Usage
 - Commodity producers/consumers
