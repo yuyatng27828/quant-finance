@@ -1,7 +1,7 @@
 # 4.2 Reference Rates
 
 ## Definition
-- Reference rate are benchmark interest rates used to determine payments o floating-rate financial instruments (e.g. swaps, loans, futures)
+- Reference rates are benchmark interest rates used to determine payments of floating-rate financial instruments (e.g. swaps, loans, futures)
 
 - They represent the cost of borrowing money in the interbank market (i.e. what a bank would charge another for short-term loans)
 
