@@ -12,7 +12,7 @@ LIBOR (London Interbank Offered Rate)
 - Existed for several curencies (USD, GBP, EUR, JPY, CHF) and maturities (overnight to 12 months)
 - Manipulation scandals + declining interbank lending volume &rarr; discontinued in 2023
 
-SOFR (Secired Overnight Index Average)
+SOFR (Secured Overnight Index Average)
 - Replacement for USD LIBOR
 - Based on actual transacctions in the US Treasury repo market (banks borrow cash overnight using US Treasuries as collateral)
 - Hence, secured (lower credit risk than LIBOR)
