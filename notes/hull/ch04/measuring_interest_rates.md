@@ -10,7 +10,7 @@
 
 ## Simple Interest
 Interest is no reinvested - you earn interest only on the principal <br>
-$$Total Value = P(1 + RT)$$
+Total Value = $$P(1 + RT)$$
 
 ## Compound Interest
 Interest is reinvested each period - you earn interest on interest <br>
