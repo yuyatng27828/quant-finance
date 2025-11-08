@@ -1,4 +1,4 @@
-# 4.3 THe Risk-Free Rate
+# 4.3 The Risk-Free Rate
 
 ## Definition
 - The interest rate on an investment with no default risk and no uncertainty about future payments
